@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Line英文輔助學習機器人'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0A8186F748E84E3F871B3AEE0802742C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ACA8869CB0864697BA4A74DFA1522E57 }}
